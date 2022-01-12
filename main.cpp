@@ -41,7 +41,6 @@ QVector<int> sortOverload(QVector<int> array){
     return array;
 }
 
-
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
